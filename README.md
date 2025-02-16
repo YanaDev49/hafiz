@@ -1,4 +1,4 @@
-# Introducing QuranFlow! 🎧 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
+# Introducing Hafiz! 🎧 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
  
 #### A creative app that transforms learning the Quran into an amazing virtual experience!
 
